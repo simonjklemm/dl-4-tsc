@@ -107,3 +107,4 @@ venv.bak/
 
 .vscode
 /archives/UCRArchive_2018
+.DS_Store
